@@ -1,3 +1,16 @@
+# Shield
+SHIELD is a project about terminating the question paper piracy in INDIA.
+## Problem
+Question paper piracy is a critical issue in INDIA due to which people with power get to secure seats while those who deserve it are left helpless. There are many ways that question papers have been pirated over the years but most of the time, culprits cut the packet of the question paper, take a snap of it, and share it over the internet.
+## How SHIELD would solve it:
+
+We will send question papers to the institutions in a box. Using the 'Shield' App, the box can be locked from the inside over the internet. If someone breaks the box without any authorization from the Ministry of Education, it will send an immediate email and notification to the nearest police station and the Ministry of Education. Additionally, the box can be tracked through GPS.
+
+## Screenshots
+
+<img src="images/ss1.png" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501508-551750a3-717e-472e-8c1b-6daa47d9fefb.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501503-bec5e2ad-92ae-4ff1-a214-d6c54d75ab30.jpg" width=200 > <img src="https://user-images.githubusercontent.com/77295322/168502011-36a2ddee-d085-438a-9e80-49c2d6471bf3.jpg" width=200 ><img src="https://user-images.githubusercontent.com/77295322/168501510-54d11940-376d-4780-8c65-45d5b73719b0.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/168501511-1bd0bb14-4ccf-4522-b5ef-b95589cf65db.jpg" width=200 >   <img src="https://user-images.githubusercontent.com/77295322/168501513-72cd0b82-c8e0-4d34-9156-46631cae0def.jpg" width=200 >   <img src="https://user-images.githubusercontent.com/77295322/168501496-89edda4b-b087-44de-9eb9-32dede518142.jpg" width=200 >
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +52,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
