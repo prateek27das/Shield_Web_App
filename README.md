@@ -9,8 +9,8 @@ We will send question papers to the institutions in a box. Using the 'Shield' Ap
 ## Screenshots
 
 <img src="https://github.com/prateek27das/Shield/blob/master/images/1.png"  width=400>  <img src="https://github.com/prateek27das/Shield/blob/master/images/6.png"  width=400>  
-<img src="https://github.com/prateek27das/Shield/blob/master/images/7.png"  width=300>  <img src="https://github.com/prateek27das/Shield/blob/master/images/4.png"  width=300> 
-<img src="https://github.com/prateek27das/Shield/blob/master/images/2.png"  width=300>   <img src="https://github.com/prateek27das/Shield/blob/master/images/3.png"  width=300>
+<img src="https://github.com/prateek27das/Shield/blob/master/images/7.png"  width=400>  <img src="https://github.com/prateek27das/Shield/blob/master/images/4.png"  width=400> 
+<img src="https://github.com/prateek27das/Shield/blob/master/images/2.png"  width=400>   <img src="https://github.com/prateek27das/Shield/blob/master/images/3.png"  width=400>
 
 # Getting Started with Create React App
 
